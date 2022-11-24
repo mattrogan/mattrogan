@@ -1,11 +1,4 @@
 - 👋 Hi, I’m @mattrogan!
-- 🎓 I’m a Junior Developer for <a href="https://www.cubic-interactive.com/">Cubic Interactive Ltd.</a>
-- 📗 I have experiences in languages including Python, Java, C, C# (.NET 3.1 Core) and Haskell. 
-- 🌐 I have used web frameworks such as Flask in Python.
-- 🌱 Currently I am working on using libGDX - a Java framework for building games - as a personal project.
+- 🎓 I’m a Junior Developer for <a href="https://www.cubic-interactive.com/">Cubic Interactive Ltd.</a> where I work as a back-end developer to create Rapport3c. This system is written in C# (using .NET 6 framework) as well as Azure DevOps, Docker, and SQL Server Studio to manage the local database. 
+- 📗 I have also experiences in languages including Python (Flask, Django, Pygame, Numpy/Pandas/Scikit), Java (OOP, LibGDX), C, and Haskell.
 - 📫 You can reach me via my website: www.matt-rogan.co.uk or by my social media (in my profile)
-
-<!---
-mattrogan/mattrogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
