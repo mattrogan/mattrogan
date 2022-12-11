@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mattrogan!
 - 🎓 I’m a Junior Developer for <a href="https://www.cubic-interactive.com/">Cubic Interactive Ltd.</a> where I work as a back-end developer to create Rapport3c. This system is written in C# (using .NET 6 framework) as well as Azure DevOps, Docker, and SQL Server Studio to manage the local database. 
 - 📗 I have also experiences in languages including Python (Flask, Django, Pygame, Numpy/Pandas/Scikit), Java (OOP, LibGDX), C, and Haskell.
+- 🌐 Currently, I'm learning React to get to grips wth some front-end development.
 - 📫 You can reach me via my website: www.matt-rogan.co.uk or by my social media (in my profile)
